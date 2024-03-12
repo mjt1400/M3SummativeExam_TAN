@@ -1,4 +1,4 @@
-# M3SummativeExam_TAN
+# Heart Disease Classification App
 
 ## Description
 #### In this project, machine learning was utilized to make predictions about a person's risk of acquiring heart disease based on a variety of characteristics.
